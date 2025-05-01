@@ -1,4 +1,4 @@
--- https://raw.githubusercontent.com/xStrikea/xTitanium/refs/heads/main/script/super_ring/script.lua
+-- https://raw.githubusercontent.com/NetheriteDeveloper/PersonalRobloxScriptsLibrary/refs/heads/main/blackholering.lua
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
 local UserInputService = game:GetService("UserInputService")

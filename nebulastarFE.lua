@@ -21,4 +21,4 @@ end)
 
 coroutine.resume(createHint)
 
-loadstring(game:HttpGet("https://pastebin.com/raw/j09BnGB3"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NetheriteDeveloper/PersonalRobloxScriptsLibrary/refs/heads/main/src/nebulastarsrc"))()

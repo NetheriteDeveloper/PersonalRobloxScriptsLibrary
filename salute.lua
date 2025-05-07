@@ -22,7 +22,7 @@ animation.Name = "Heil"
 animation.Parent = workspace
 animation.AnimationId = getmodel() == "R6" and "rbxassetid://186904307"
 local tool = Instance.new("Tool")
-tool.Name = ""
+tool.Name = ""
 tool.RequiresHandle = false
 tool.Parent = pack
 local doing = false

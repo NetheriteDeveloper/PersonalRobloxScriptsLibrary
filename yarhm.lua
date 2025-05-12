@@ -6080,7 +6080,7 @@ local function QUXUEEW_fake_script() -- Fake Script: StarterGui.YARHM.Murder Mys
 				if sher then sherName = sher.Name end
 				local message = string.format([[Murderer: %s |
 	Sheriff: %s |
-	<<YARHM>>]], murdName, sherName)
+	<<cool tips and tricks>>]], murdName, sherName)
 				textchannel:SendAsync(message)
 			end
 		end,}

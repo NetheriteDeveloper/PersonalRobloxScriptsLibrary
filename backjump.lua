@@ -13,7 +13,7 @@ Player.CharacterAdded:Connect(function(Char)
 	Root = Char:WaitForChild("HumanoidRootPart")
 end)
 
-local UpwardBoost = 25
+local UpwardBoost = 45
 local BackwardPush = 10
 
 UserInputService.JumpRequest:Connect(function()
